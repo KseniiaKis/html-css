@@ -1,3 +1,8 @@
-# html-css
+# Resume
 
-https://kseniiakis.github.io/html-css/
+## My website:
+
+[Click me]((https://kseniiakis.github.io/html-css/) "Resume").
+ 
+
+
