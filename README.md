@@ -1,8 +1,8 @@
 # Resume
 
-## My website:
+My website:
 
-[Click me]((https://kseniiakis.github.io/html-css/) "Resume").
+[Click me](https://kseniiakis.github.io/html-css/ "Resume").
  
 
 
